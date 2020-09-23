@@ -1,0 +1,7 @@
+C:\Users\johan\source\repos\Skogen\obj\Debug\Skogen.csprojAssemblyReference.cache
+C:\Users\johan\source\repos\Skogen\obj\Debug\Skogen.csproj.CoreCompileInputs.cache
+C:\Users\johan\source\repos\Skogen\bin\Debug\Skogen.exe.config
+C:\Users\johan\source\repos\Skogen\bin\Debug\Skogen.exe
+C:\Users\johan\source\repos\Skogen\bin\Debug\Skogen.pdb
+C:\Users\johan\source\repos\Skogen\obj\Debug\Skogen.exe
+C:\Users\johan\source\repos\Skogen\obj\Debug\Skogen.pdb
